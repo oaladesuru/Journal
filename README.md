@@ -2,7 +2,8 @@
 
 ## Week 1
 ### Tutorial Tasks Completed
-- 
+- Created GitHub account
+- Created GitHub Repository
 ### Screenshots / Command Outputs
 - 
 ### Notes & Explanations
