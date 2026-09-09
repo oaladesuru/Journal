@@ -5,7 +5,7 @@
 - Created GitHub account
 - Created GitHub Repository
 ### Screenshots / Command Outputs
-- 
+- *ALL SCREENSHOTS ARE IN "screenshots" FOLDER*
 ### Notes & Explanations
 - 
 ### Project Contributions
