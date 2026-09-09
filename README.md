@@ -5,7 +5,7 @@
 - Created GitHub account
 - Created GitHub Repository
 ### Screenshots / Command Outputs
-- 
+- ![Tutorial1](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-09%20151702.png?raw=true)
 ### Notes & Explanations
 - 
 ### Project Contributions
