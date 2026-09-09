@@ -13,7 +13,8 @@
 
 ## Week 2
 ### Tutorial Tasks Completed
-- 
+## 09/09/2026:
+- Tutorial 1 - Powershell
 ### Screenshots / Command Outputs
 - 
 ### Notes & Explanations
