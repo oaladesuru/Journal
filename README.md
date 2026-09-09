@@ -5,9 +5,9 @@
 - Created GitHub account
 - Created GitHub Repository
 ### Screenshots / Command Outputs
-
+-!![GitHub account creation](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-09%20164747.png?raw=true)
 ### Notes & Explanations
-- Created GitHub account for jornal entries as well as other projects and assignments
+- Created GitHub account for journal entries as well as other projects and assignments. Proof ^^
 ### Project Contributions
 - N/A, group for project has not been formed yet.
 
