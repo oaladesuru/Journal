@@ -23,7 +23,7 @@
 - I found this by starting the VM, watching the first screen that appeared, and checking the text at the top which showed "GRUB" during startup. I installed everything through Windows CMD rather than apporto.
 - Kernal is the part of the operating system that manages hardware, memory, processes, and networking. OpenWRT uses a Linux Kernel, and I found the kernel version by running the command "uname -a" with the help of copilot by asking for where to find it. This command prints the kernel version and architecture.
 ### Project Contributions
-- 
+- N/A, group for project has not been formed yet.
 
 ## Week 3
 ...
