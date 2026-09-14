@@ -26,7 +26,21 @@
 - N/A, group for project has not been formed yet.
 
 ## Week 3
+### Tutorial Tasks Completed
+09/14/2026
 ...
+### Screenshots / Command Outputs
+...
+### Notes & Explanations
+...
+### Project Contributions
+
 
 ## Week 4–10 (Final Journal)
+### Tutorial Tasks Completed
 ...
+### Screenshots / Command Outputs
+...
+### Notes & Explanations
+...
+### Project Contributions
