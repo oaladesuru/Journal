@@ -28,9 +28,22 @@
 ## Week 3
 ### Tutorial Tasks Completed
 09/14/2026
-- Explored different networking concepts and tools by using websites, PowerShell commands
+- Task 1
+-   I ran an Internet speed test check my internet performance. The results depend on things like my ISP, network congestion, Wi-Fi strength, distance to the server, and time of day.
+- Task 2
+-   I looked at many network maps to understand how global internet is connected and how traffic moves between countries and ISPs
+- Task 3
+-   I used certain Get-NetAdapter to view my network adapter details
+- Task 4
+-   I used Get-NetIPConfiguration and Get-NetIPAddress to see my computer's IP settings and my router's gateway address
+- Task 5
+-   I found my router's IP address and pinged it to measure minimum, average, and maximum delay. I noticed how things like Wi-fi interference, distance, and network load could affect the delay.
 ### Screenshots / Command Outputs
 - ![SpeedTest](https://github.com/oaladesuru/Journal/blob/main/images/Screenshot%202026-09-14%20151956.png?raw=true)
+- ![NetworkMaps]()
+- ![AdapterDetails]()
+- ![IPSettings]()
+- ![Ping]()
 ### Notes & Explanations
 ...
 ### Project Contributions
