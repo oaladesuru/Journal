@@ -31,23 +31,27 @@
 - Task 1
 -   I ran an Internet speed test check my internet performance. The results depend on things like my ISP, network congestion, Wi-Fi strength, distance to the server, and time of day.
 - Task 2
--   I looked at many network maps to understand how global internet is connected and how traffic moves between countries and ISPs
+-   I looked at many network maps to understand how global internet is connected and how traffic moves between countries and ISPs.
 - Task 3
--   I used certain Get-NetAdapter to view my network adapter details
+-   I used certain Get-NetAdapter to view my network adapter details.
 - Task 4
--   I used Get-NetIPConfiguration and Get-NetIPAddress to see my computer's IP settings and my router's gateway address
+-   I used Get-NetIPConfiguration and Get-NetIPAddress to see my computer's IP settings and my router's gateway address.
 - Task 5
 -   I found my router's IP address and pinged it to measure minimum, average, and maximum delay. I noticed how things like Wi-fi interference, distance, and network load could affect the delay.
+- Task 6
+-   I picked a website and used DNS tools to get its addressing information.
 ### Screenshots / Command Outputs
 - ![SpeedTest](https://github.com/oaladesuru/Journal/blob/main/images/Screenshot%202026-09-14%20151956.png?raw=true)
-- ![NetworkMaps]()
-- ![AdapterDetails]()
-- ![IPSettings]()
-- ![Ping]()
+- ![NetworkMaps](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-14%20163434.png?raw=true)
+- ![AdapterDetails](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-14%20163036.png?raw=true)
+- ![IPSettings](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-14%20152315.png?raw=true)
+- ![Ping](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-14%20164607.png?raw=true)
+- ![Website](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-14%20163043.png?raw=true)
+
 ### Notes & Explanations
 ...
 ### Project Contributions
-
+- N/A, group for project has not been formed yet.
 
 ## Week 4–10 (Final Journal)
 ### Tutorial Tasks Completed
