@@ -28,9 +28,9 @@
 ## Week 3
 ### Tutorial Tasks Completed
 09/14/2026
-...
+- Explored different networking concepts and tools by using websites, PowerShell commands
 ### Screenshots / Command Outputs
-...
+- ![SpeedTest](https://github.com/oaladesuru/Journal/blob/main/images/Screenshot%202026-09-14%20151956.png?raw=true)
 ### Notes & Explanations
 ...
 ### Project Contributions
