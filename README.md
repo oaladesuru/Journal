@@ -55,7 +55,7 @@
 
 ## Week 4–10 (Final Journal)
 ### Tutorial Tasks Completed
-##09/21/2026
+## 09/21/2026
 - Used PowerShell to view ARP Table
 ### Screenshots / Command Outputs
 ![GetNetNeighbor](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-21%20153200.png?raw=true)
