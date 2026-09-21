@@ -60,5 +60,6 @@
 ### Screenshots / Command Outputs
 ![GetNetNeighbor](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-21%20153200.png?raw=true)
 ### Notes & Explanations
-...
+- The purpose of ARP packets are to map an IPv4 address to a MAC address so devices on the same LAN can deliver frams to the correct machine.
+- From the screenshot of the ARP table, only one entry is reachable: 00-00-5E-00-01-09. It is not a single computer, it is a multicast group.
 ### Project Contributions
