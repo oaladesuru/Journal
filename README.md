@@ -55,7 +55,8 @@
 
 ## Week 4–10 (Final Journal)
 ### Tutorial Tasks Completed
-...
+##09/21/2026
+- Used PowerShell to view ARP Table
 ### Screenshots / Command Outputs
 ...
 ### Notes & Explanations
