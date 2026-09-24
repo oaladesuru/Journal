@@ -67,4 +67,5 @@
 ### Notes & Explanations
 - The purpose of ARP packets are to map an IPv4 address to a MAC address so devices on the same LAN can deliver frams to the correct machine.
 - From the screenshot of the ARP table, only one entry is reachable: 00-00-5E-00-01-09. It is not a single computer, it is a multicast group.
+- The network diagram shows two switched LAN designs. The first design connects four PCs to one central switch, while the second uses a star topology with eight PCs connected through three switches. This demonstrates how switches allow devices on the same LAN to communicate efficiently.
 ### Project Contributions
