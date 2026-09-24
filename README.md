@@ -20,8 +20,8 @@
 -![VirtualBox Installation](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-09%20164144.png?raw=true)
 ### Notes & Explanations
 - The boot manager is the small program that runs before the operating system and decides wgicg OS or kernal to load. In OpenWRT running inside VirtualBox, the boot manager is GRUB.
-- I found this by starting the VM, watching the first screen that appeared, and checking the text at the top which showed "GRUB" during startup. I installed everything through Windows CMD rather than apporto.
-- Kernal is the part of the operating system that manages hardware, memory, processes, and networking. OpenWRT uses a Linux Kernel, and I found the kernel version by running the command "uname -a" with the help of copilot by asking for where to find it. This command prints the kernel version and architecture.
+- I found this by starting the VM, watching the first screen that appeared, and checking the text at the top which showed "GRUB" during startup. I installed everything through Windows CMD rather than [...]
+- Kernal is the part of the operating system that manages hardware, memory, processes, and networking. OpenWRT uses a Linux Kernel, and I found the kernel version by running the command "uname -a" wit[...]
 ### Project Contributions
 - N/A, group for project has not been formed yet.
 
@@ -57,6 +57,11 @@
 ### Tutorial Tasks Completed
 ## 09/21/2026
 - Used PowerShell to view ARP Table
+
+### Diagram / Network Topology
+- [blank.drawio](https://github.com/oaladesuru/Journal/blob/main/blank.drawio)
+- [Open diagram in diagrams.net](https://app.diagrams.net/?splash=0&url=https://raw.githubusercontent.com/oaladesuru/Journal/main/blank.drawio)
+
 ### Screenshots / Command Outputs
 ![GetNetNeighbor](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-21%20153200.png?raw=true)
 ### Notes & Explanations
