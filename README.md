@@ -72,3 +72,9 @@
 ### Project Contributions
 - Formed group
 - Assigned roles
+## Reflection
+- Used PowerShell to view ARP table
+-   PowerShell can be useful to view information regarding how a device communicates with other devices like pinging other computers and accessing websites
+- Used Github's drawIO to create a network diagram for the first time
+-   This is useful for viewing and explaining networking, systems, and data workflows
+  
