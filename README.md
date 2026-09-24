@@ -71,10 +71,18 @@
 - The network diagram shows two switched LAN designs. The first design connects four PCs to one central switch, while the second uses a star topology with eight PCs connected through three switches. This demonstrates how switches allow devices on the same LAN to communicate efficiently.
 ### Project Contributions
 - Formed group
-- Assigned roles
 ## Reflection
 - Used PowerShell to view ARP table
 -   PowerShell can be useful to view information regarding how a device communicates with other devices like pinging other computers and accessing websites
 - Used Github's drawIO to create a network diagram for the first time
 -   This is useful for viewing and explaining networking, systems, and data workflows
-  
+## 09/23/2026
+## Tutorial Tasks completed
+- Used PowerShell to view network adapter 
+## Screenshots / Command Outputs
+
+## Notes and Explanations
+
+## Project Contributions
+- Assigned Roles
+- Completed Project Plan
