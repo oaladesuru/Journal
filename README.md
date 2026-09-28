@@ -80,7 +80,7 @@
 ## Tutorial Tasks completed
 - Used PowerShell to view network adapter 
 ## Screenshots / Command Outputs
-
+![Powershell](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-24%20115344.png?raw=true)
 ## Notes and Explanations
 
 ## Project Contributions
