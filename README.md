@@ -65,6 +65,8 @@
 ### Screenshots / Command Outputs
 ![GetNetNeighbor](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-21%20153200.png?raw=true)
 ![Diagram](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-24%20114411.png?raw=true)
+![GetAdapter](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142807.png?raw=true)
+![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
 ### Notes & Explanations
 - The purpose of ARP packets are to map an IPv4 address to a MAC address so devices on the same LAN can deliver frams to the correct machine.
 - From the screenshot of the ARP table, only one entry is reachable: 00-00-5E-00-01-09. It is not a single computer, it is a multicast group.
@@ -81,10 +83,10 @@
 - Some commands we have used are pings (Test-NetConnection), to test connectivity, Get-NetAdapter, Get-NetIPConfiguration to view network adapter details, IP configuration, and DNS mappings.
 ## 09/23/2026
 ## Tutorial Tasks completed
-- Used PowerShell to view network adapter 
+- Used PowerShell to trace routes
 ## Screenshots / Command Outputs
-![GetAdapter](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142807.png?raw=true)
-![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
+![Harvard](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20143739.png?raw=true)
+
 ## Notes and Explanations
 
 ## Project Contributions
