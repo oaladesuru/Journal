@@ -87,8 +87,10 @@
 ## Screenshots / Command Outputs
 ![Harvard](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20143739.png?raw=true)
 ![Youtube](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20144322.png?raw=true)
+![UK](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20144426.png?raw=true)
 ## Notes and Explanations
-
+- My computer sent packets that hopped before reaching www.gov.uk. The first few hops were private IPs, then traffic moved through routers owned by Zayo, then reached Fastly which is a CDN that hosts the UK Government website.
+- Internet delay was higher than local communication because of the distance, number of hops, and busy networks can also cause delays.
 ## Project Contributions
 - Assigned Roles
 - Completed Project Plan
