@@ -81,6 +81,7 @@
 - Used PowerShell to view network adapter 
 ## Screenshots / Command Outputs
 ![GetAdapter](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142807.png?raw=true)
+![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
 ## Notes and Explanations
 - PowerShell is very useful and can help in other courses by doing tasks like managing files, monitoring system performances and checking network status.
 - Tools we used the past couple of weeks have been PowerShell for network and system commands, Speedtest.net to measure internet throughput, an electric map to explore global networks.
