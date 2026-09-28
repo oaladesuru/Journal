@@ -66,7 +66,6 @@
 ![GetNetNeighbor](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-21%20153200.png?raw=true)
 ![Diagram](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-24%20114411.png?raw=true)
 ![GetAdapter](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142807.png?raw=true)
-![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
 ### Notes & Explanations
 - The purpose of ARP packets are to map an IPv4 address to a MAC address so devices on the same LAN can deliver frams to the correct machine.
 - From the screenshot of the ARP table, only one entry is reachable: 00-00-5E-00-01-09. It is not a single computer, it is a multicast group.
@@ -83,14 +82,21 @@
 - Some commands we have used are pings (Test-NetConnection), to test connectivity, Get-NetAdapter, Get-NetIPConfiguration to view network adapter details, IP configuration, and DNS mappings.
 ## 09/23/2026
 ## Tutorial Tasks completed
-- Used PowerShell to trace routes
+- Task 1: Viewed my routing table
+- Task 2: Used PowerShell to trace routes
+- Task 3: Used whatismyip to attain my IP and other information
+- Task 4: Wrote project plan in group's repository.
+  
 ## Screenshots / Command Outputs
+![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
 ![Harvard](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20143739.png?raw=true)
 ![Youtube](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20144322.png?raw=true)
 ![UK](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20144426.png?raw=true)
+![IP](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20150051.png?raw=true)
 ## Notes and Explanations
 - My computer sent packets that hopped before reaching www.gov.uk. The first few hops were private IPs, then traffic moved through routers owned by Zayo, then reached Fastly which is a CDN that hosts the UK Government website.
 - Internet delay was higher than local communication because of the distance, number of hops, and busy networks can also cause delays.
+- Using What's my IP succesfully gave me my IP address and location.
 ## Project Contributions
 - Assigned Roles
 - Completed Project Plan
