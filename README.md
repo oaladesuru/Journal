@@ -86,7 +86,7 @@
 - Used PowerShell to trace routes
 ## Screenshots / Command Outputs
 ![Harvard](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20143739.png?raw=true)
-
+![Youtube](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20144322.png?raw=true)
 ## Notes and Explanations
 
 ## Project Contributions
