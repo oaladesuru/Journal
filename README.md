@@ -73,9 +73,12 @@
 - Formed group
 ## Reflection
 - Used PowerShell to view ARP table
--   PowerShell can be useful to view information regarding how a device communicates with other devices like pinging other computers and accessing websites
+- PowerShell can be useful to view information regarding how a device communicates with other devices like pinging other computers and accessing websites
 - Used Github's drawIO to create a network diagram for the first time
--   This is useful for viewing and explaining networking, systems, and data workflows
+- This is useful for viewing and explaining networking, systems, and data workflows
+-  PowerShell is very useful and can help in other courses by doing tasks like managing files, monitoring system performances and checking network status.
+- Tools we used the past couple of weeks have been PowerShell for network and system commands, Speedtest.net to measure internet throughput, an electric map to explore global networks.
+- Some commands we have used are pings (Test-NetConnection), to test connectivity, Get-NetAdapter, Get-NetIPConfiguration to view network adapter details, IP configuration, and DNS mappings.
 ## 09/23/2026
 ## Tutorial Tasks completed
 - Used PowerShell to view network adapter 
@@ -83,9 +86,7 @@
 ![GetAdapter](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142807.png?raw=true)
 ![Route](https://github.com/oaladesuru/Journal/blob/main/Screenshot%202026-09-28%20142827.png?raw=true)
 ## Notes and Explanations
-- PowerShell is very useful and can help in other courses by doing tasks like managing files, monitoring system performances and checking network status.
-- Tools we used the past couple of weeks have been PowerShell for network and system commands, Speedtest.net to measure internet throughput, an electric map to explore global networks.
-- Some commands we have used are pings (Test-NetConnection), to test connectivity, Get-NetAdapter, Get-NetIPConfiguration to view network adapter details, IP configuration, and DNS mappings.
+
 ## Project Contributions
 - Assigned Roles
 - Completed Project Plan
